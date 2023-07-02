@@ -21,6 +21,7 @@
             <br />
             <h3>El resultado es:</h3>
             <asp:TextBox ID="lblResultado" runat="server"></asp:TextBox>
+            <h3>Gracias</h3>
         </div>
     </form>
 </body>
