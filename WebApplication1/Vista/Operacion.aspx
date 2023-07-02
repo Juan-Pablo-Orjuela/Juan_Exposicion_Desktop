@@ -19,8 +19,9 @@
             <br />
             <asp:Button ID="btnCalcular" runat="server" Text="Calcular" OnClick="btnCalcular_Click" />
             <br />
-            <asp:Label ID="Label1" runat="server" Text="El resultado de la suma"></asp:Label>
+          
             <asp:TextBox ID="lblResultado" runat="server"></asp:TextBox>
+            <h1>Hola mundo </h1> 
         </div>
     </form>
 </body>
