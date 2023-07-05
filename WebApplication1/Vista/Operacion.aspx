@@ -19,7 +19,7 @@
             <br />
             <asp:Button ID="btnCalcular" runat="server" Text="Calcular" OnClick="btnCalcular_Click" />
             <br />
-          
+            <h3>El resultado es:</h3>
             <asp:TextBox ID="lblResultado" runat="server"></asp:TextBox>
         </div>
     </form>
