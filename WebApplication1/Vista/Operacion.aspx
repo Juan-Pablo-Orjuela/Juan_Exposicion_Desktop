@@ -21,7 +21,6 @@
             <br />
           
             <asp:TextBox ID="lblResultado" runat="server"></asp:TextBox>
-            <h1>Hola mundo </h1> 
         </div>
     </form>
 </body>
